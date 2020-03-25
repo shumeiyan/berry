@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Blog by Berry Yan`,
     name: `Berry Yan`,
-    siteUrl: `http://ysm.github.io`,
+    siteUrl: `http://ysm.github.io/berry`,
     description: `Blog by Berry Yan`,
     hero: {
       heading: `Welcome to Blog by Berry Yan.`,
