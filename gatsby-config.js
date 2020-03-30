@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Blog by Berry Yan`,
     name: `Berry Yan`,
-    siteUrl: `http://ysm.github.io/berry`,
+    siteUrl: `http://shumeiyan.github.io/berry`,
     description: `Blog by Berry Yan`,
     hero: {
       heading: `Welcome to Blog by Berry Yan.`,
@@ -48,8 +48,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Berry Yan`,
+        short_name: `Berry`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,

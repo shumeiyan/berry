@@ -3,12 +3,12 @@
   "name": "berry-yan",
   "version": "1.0.0",
   "license": "MIT",
-  "homepage": "http://ysm.github.io/berry",
+  "homepage": "http://shumeiyan.github.io/berry",
   "scripts": {
     "build": "gatsby build",
     "dev": "gatsby develop",
     "clean": "gatsby clean",
-    "deploy-gh": "gatsby clean && gatsby build && gh-pages -d build",
+    "deploy-gh": "gatsby clean && gatsby build && gh-pages -d public",
     "proxy": "netlify-cms-proxy-server"
   },
   "dependencies": {
